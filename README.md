@@ -1,7 +1,7 @@
 ### Hi, its Anıl here 👋
 
 - 🎓 I graduated from Kadir Has University as a Computer Engineering student. By combining creative thinking and technical skills, I constantly develop my passion and knowledge of web development and game development.
-- 🌱 I’m currently learning - Node.js
+- 🌱 I’m currently learning - Express.js
 - 💬 Ask me about - Javascript, React, C#
 
 ## 🌐Socials
