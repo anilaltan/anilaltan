@@ -39,12 +39,11 @@ I'm a **System Engineer** specializing in GRC (Governance, Risk, and Compliance)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anlaltnn@example.com)
 
 ---
----
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilaltan&show_icons=true&theme=tokyonight&count_private=true" alt="Anıl's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilaltan&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anilaltan&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Anıl's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilaltan&layout=compact&theme=tokyonight&hide_langs_below=1&cache_seconds=1800" alt="Top Langs" />
 </p>
