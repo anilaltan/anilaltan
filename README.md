@@ -50,6 +50,3 @@ I'm a **System Engineer** specializing in GRC (Governance, Risk, and Compliance)
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilaltan&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/anilaltan?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Europe%2FIstanbul" alt="Anıl's Metrics" onerror="this.style.display='none'" />
-</p>
