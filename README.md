@@ -38,6 +38,16 @@ I'm a **System Engineer** specializing in GRC (Governance, Risk, and Compliance)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilaltan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anlaltnn@example.com)
 
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/anilaltan?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Europe%2FIstanbul" alt="Metrics" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anilaltan&show_icons=true&theme=tokyonight&count_private=true" alt="Anıl's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilaltan&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/anilaltan?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Europe%2FIstanbul" alt="Anıl's Metrics" />
 </p>
