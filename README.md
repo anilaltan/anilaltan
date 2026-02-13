@@ -1,37 +1,44 @@
-### Hi, its Anıl here 👋
+# Hi there, I'm Anıl! 👋
 
-- 🎓 I graduated from Kadir Has University as a Computer Engineering student. By combining creative thinking and technical skills, I constantly develop my passion and knowledge of web development and game development.
-- 🌱 I’m currently learning - Express.js
-- 💬 Ask me about - Javascript, React, C#
+I'm a **System Engineer** specializing in GRC (Governance, Risk, and Compliance) by day, and a **Game Developer & Data Enthusiast** by night. I love building structured systems, whether they are for enterprise risk management or virtual game worlds.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilaltan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/altn_anl)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://anilaltan.dev)
+### 🚀 What I'm Up To
+- 💼 **Professional:** Currently working as a System Engineer at **GRCXperts**, focusing on **Archer GRC** solutions and system architecture.
+- 🎮 **Game Dev:** Developing **"Spatial Alchemist"** using Unity, focusing on modular architecture and engaging mechanics.
+- ⚽ **Data Science:** Building an **FPL (Fantasy Premier League) Prediction Platform** to turn football data into winning strategies.
+- 🏠 **Home Lab:** Experimenting with self-hosting, network security, and local server management.
 
-## Version Control and Development tools used:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white )![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilaltan)](https://github.com/anilaltan/github-readme-stats)
+### 🛠️ Tech Stack & Tools
 
-[![anil altan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilaltan)](https://github.com/anilaltan/github-readme-stats)
-<!--
-**anilaltan/anilaltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 Merhaba! Ben Anıl Altan.
+**Professional & Systems:**
+![Archer GRC](https://img.shields.io/badge/RSA_Archer-GRC-red?style=flat-square) ![System Engineering](https://img.shields.io/badge/System-Engineering-blue?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Development & Data:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-💼 Doğuş Teknoloji'de web geliştirme stajyeri olarak çalıştığım süre boyunca, C#, JavaScript, ve ASP.NET gibi teknolojileri kullanarak çeşitli web uygulamalarını geliştirdim. Takım içindeki etkileşimlerim ve önerilerimle projelerin kalitesine katkıda bulundum.
+### 📈 Featured Projects
+- **Spatial Alchemist:** My primary Unity project exploring alchemy-based survival mechanics.
+- **FPL Predictor:** A Python-based engine leveraging historical data and Docker for FPL analysis.
+- **BombParty TR:** A technical clone and localization project for the popular word game.
 
+---
 
+### 🔭 Beyond the Code
+- 🧱 **LEGO:** Passionate about complex builds (proud owner of the ISS set).
+- 📈 **Trading:** Swing trading in the crypto markets and managing a diverse investment portfolio.
+- 📚 **Reading:** Deep into Sci-Fi and Fantasy epics like *Dune* and *The Silmarillion*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilaltan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+![Anıl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilaltan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilaltan&layout=compact&theme=tokyonight)
